@@ -1,7 +1,7 @@
 # Music-opinion-dynamics
 
 # Introduction
-The aim of this research was focused on the dynamics of the opinion among teenagers through the implementation of an agent based model. The empirical data obtained from a survey were compared with the data from the simulation model in order to reproduce this social phenomenon and to confirm the theoretical assumptions behind the model itself.
+The aim of this research was focused on the dynamics of the opinion among teenagers through the implementation of an agent based model. The empirical data obtained from a web survey were compared with the data from the simulation model in order to reproduce this social phenomenon and to confirm the theoretical assumptions behind the model itself.
 
 # Model
 The model assumes a hybrid interaction system (Axelrod, 1997; Deffuant et al., 2000; 2002) from real data: agents influence each other with a strength based on a mu parameter (µ). This represents that feature which tells how strongly the talker (Ego) get the opinion of the receiver (Alter), only if the difference between the features of the agents is less than a theta parameter (θ). 
