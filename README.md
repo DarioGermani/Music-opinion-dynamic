@@ -9,4 +9,7 @@ The model assumes a hybrid interaction system (Axelrod, 1997; Deffuant et al., 2
 On one hand, these two inner workings suppose the exchange of views takes place according to the similarity/difference between the agents, but on the other, there are agents characterized by a greater strength (leadership opinion) than others following social influence derived from some of their features.
 The distance between the features of the agents is a random number between zero and one: the more the agents are similar the more the similarity value is close to zero; the more they are different the more the similarity value is close to one.
 
-The general aspects of the model are as follows: (1) the agents, which stand for our analysis units - the students - together with all their features; (2) the social network, which plays the same relational structure of the school groups; (3) the opinions on various genres of music, which are "spread" during the simulation through a random algorithm unlike the previous main features.
+The general aspects of the model are as follows: 
+1) the agents, which stand for our analysis units - the students - together with all their features; 
+2) the social network, which plays the same relational structure of the school groups; 
+3) the opinions on various genres of music, which are "spread" during the simulation through a random algorithm unlike the previous main features.
