@@ -8,7 +8,7 @@ The model assumes a hybrid interaction system (Axelrod, 1997; Deffuant et al., 2
 
 The distance between the features of the agents is a number between zero and one: the more the agents are similar the more the similarity value is close to zero; the more they are different the more the similarity value is close to one.
 
-The general aspects of the model are as follows (figure 1): 
+The general aspects of the model are as follows: 
 1) the agents, which stand for our analysis units - the students - together with all their features; 
 2) the social network, which plays the same relational structure of the school groups; 
 3) the opinions on various genres of music, which are "spread" during the simulation through a random algorithm unlike the previous main features.
