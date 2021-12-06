@@ -19,5 +19,7 @@ The general aspects of the model are as follows:
 
 # References
 R. Axelrod (1997), «The dissemination of culture: A model with local convergence and global polarization», The Journal of Conflict Resolution, 41(2), pp. 203-226.
+
 G. Deffuant, D. Neau, F. Amblard, G. Weisbuch (2000), «Mixing beliefs among interacting agents», Advances in Complex Systems, 3, pp. 87-98.
+
 G. Deffuant, F. Amblard, G. Weisbuch, T. Faure (2002) «How can extremism prevail? A study based on the relative agreement interaction model», Journal of Artificial Societies and Social Simulation, 5(4), https://www.jasss.org/5/4/1.html.
