@@ -17,7 +17,8 @@ The general aspects of the model are as follows:
 2) the social network, which plays the same relational structure of the school groups; 
 3) the opinions on various genres of music, which are "spread" during the simulation through a random algorithm unlike the previous main features.
 
-![image](https://user-images.githubusercontent.com/67426509/144301716-4c6f7f2d-4577-4f21-9e3c-6f434363dffc.png)
+![image](https://user-images.githubusercontent.com/67426509/145727169-52d3a5bd-2ba1-4613-877b-16a0c9302780.png)
+
 
 # References
 R. Axelrod (1997), «The dissemination of culture: A model with local convergence and global polarization», The Journal of Conflict Resolution, 41(2), pp. 203-226.
