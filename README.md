@@ -29,6 +29,6 @@ G. Deffuant, D. Neau, F. Amblard, G. Weisbuch (2000), «Mixing beliefs among int
 
 G. Deffuant, F. Amblard, G. Weisbuch, T. Faure (2002) «How can extremism prevail? A study based on the relative agreement interaction model», Journal of Artificial Societies and Social Simulation, 5(4), https://www.jasss.org/5/4/1.html.
 
-P.F. Lazarsfeld, R.K. Merton (1954), «Friendship as a social process: A substantive and methodological analysis», Berger, M., Abel T. e Page C. H. (a cura di), Freedom and Control in Modern Society (pp. 18-66), New york, Toronto, London, Van Nostrand, tr. it. in Lombardo C. (2001) (a cura di), Paul F. Lazarsfeld, Saggi storici e metodologici (pp. 45-101), Roma, Edizioni Eucos.
-
 E. Katz, P.F. Lazarsfeld (1955), Personal Influence: The Part Played by People in the Flow of Mass Communications, New York, Free Press; tr. it. L'influenza personale nelle comunicazioni di massa, Torino, ERV-ERI, 1968.
+
+P.F. Lazarsfeld, R.K. Merton (1954), «Friendship as a social process: A substantive and methodological analysis», Berger, M., Abel T. e Page C. H. (a cura di), Freedom and Control in Modern Society (pp. 18-66), New york, Toronto, London, Van Nostrand, tr. it. in Lombardo C. (2001) (a cura di), Paul F. Lazarsfeld, Saggi storici e metodologici (pp. 45-101), Roma, Edizioni Eucos.
