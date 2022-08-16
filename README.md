@@ -13,6 +13,13 @@ The distance among the features of the agents (2) is a real number between zero 
 
 The simulation is set up in the following way: (i) an agent-set (students) repro-ducing the same features of those obtained from the empirical analysis; (ii) a network topology reproducing the same structure obtained from the empirical analysis; (iii) a spread of music opinions through a random algorithm at the first step. 
 
+# Results
+The idea that people tend to interact more with their own kind has been empiri-cally validated also in the course of this investigation: the average value of the opinion distance increases as the similarity decreases. Basically, students with the same opinion on a certain musical genre are also those characterised by high similarity and strong ties. 
+
+To understand the best match among parameters, capable of reproducing an opin-ion dynamic similar to the one observed, we implemented the model running some initial experiments. Through the analysed combinations, we can report those two that lead to the simulative results close to the empirical ones. In partic-ular: (i) low convergence and tolerance parameter (µ & θ = 0.25), where agents influence and interact lightly («low reciprocity»); (ii) high convergence and tol-erance parameter (µ & θ = 1), where agents influence and interact a lot («high reciprocity»).
+
+Although none of them can replicate exactly the same empirical pattern, the «low reciprocity» scenario is the one that comes closest on certain values. The algo-rithm we suggested poses how individuals interact and convey opinions on musi-cal preferences: based on this, Agent-Based Modelling has proved to be a power-ful tool for testing hypotheses on social mechanisms.
+
 # References
 R. Axelrod (1997), «The dissemination of culture: A model with local convergence and global polarization», The Journal of Conflict Resolution, 41(2), pp. 203-226.
 
